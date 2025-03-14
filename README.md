@@ -18,7 +18,7 @@
 Запустите бота, выполнив команду:
 
 ```bash
-python telegram_bot/main.py
+python main.py
 ```
 
 ## Список команд
